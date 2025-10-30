@@ -410,7 +410,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>McAfee<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mcafee.svg" width="100" title="McAfee"><br>262 bytes</td>
-<td>McDonald's<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mcdonald_s.svg" width="100" title="McDonald's"><br>434 bytes</td>
+<td>McDonald's<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mcdonald_s.svg" width="100" title="McDonald's"><br>402 bytes</td>
 <td>Medium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="100" title="Medium"><br>225 bytes</td>
 <td>Meetup<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="100" title="Meetup"><br>898 bytes</td>
 <td>Messenger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="100" title="Messenger"><br>491 bytes</td>
@@ -481,7 +481,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
-<td>Photoshop<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/photoshop.svg" width="100" title="Photoshop"><br>631 bytes</td>
+<td>Photoshop<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/photoshop.svg" width="100" title="Photoshop"><br>630 bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP"><br>524 bytes</td>
 <td>Pinboard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="100" title="Pinboard"><br>241 bytes</td>
 <td>Pinterest<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="100" title="Pinterest"><br>508 bytes</td>
